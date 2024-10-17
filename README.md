@@ -25,10 +25,10 @@ This is a to-do list application built with React, TypeScript, and Material-UI. 
 
 ## Technologies Used
 
-- ![React Badge](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white) : For building the user interface
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white) : For functionality and interactivity
-- ![Material-UI Badge](https://img.shields.io/badge/Material--UI-5.0-blue?logo=mui&logoColor=white) : For styling the application
-- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-4.0-blue?logo=typescript&logoColor=white) : For static typing and improved development experience
+- ![React Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) : For building the user interface
+- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) : For functionality and interactivity
+- ![Material-UI Badge](https://img.shields.io/badge/Material--UI-blue?logo=mui&logoColor=white) : For styling the application
+- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) : For static typing and improved development experience
 
 ## Why This Project?
 
