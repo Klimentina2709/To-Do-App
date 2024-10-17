@@ -3,7 +3,7 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Material-UI Badge](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
 
