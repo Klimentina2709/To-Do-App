@@ -1,8 +1,8 @@
 # To-Do App
 
-![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5)
+![HTML Badge](https://img.shields.io/badge/HTML-white?logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-white?logo=javascript)
 ![React Badge](https://img.shields.io/badge/React-blue?logo=react)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![Material-UI Badge](https://img.shields.io/badge/Material--UI-blue?logo=mui)
