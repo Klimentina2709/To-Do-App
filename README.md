@@ -21,9 +21,9 @@ To run this project, you just need a web browser.
 
 ## Technologies Used
 
-- ![HTML Badge](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) : For the structure of the application
-- ![CSS Badge](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) : For basic styling of the app
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white) : For functionality, including adding, deleting, and marking tasks as completed
+- ![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) : For the structure of the application
+- ![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) : For basic styling of the app
+- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) : For functionality, including adding, deleting, and marking tasks as completed
 
 ## Why This Project?
 
