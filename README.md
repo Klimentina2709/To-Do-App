@@ -36,7 +36,7 @@ This project was a practice exercise to improve my understanding of basic web de
 - Working with basic HTML and CSS for structuring and styling the application
 - Implementing simple JavaScript logic for adding, deleting, and updating tasks
 
-## Screenshots
+## Screenshot
 
 ![To-Do App Screenshot](./screenshot/To-Do-JavaScript.png)
 
