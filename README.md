@@ -1,11 +1,11 @@
 # To-Do App
 
-![HTML Badge](https://img.shields.io/badge/HTML-white?logo=html5)
-![CSS Badge](https://img.shields.io/badge/CSS-white?logo=css3)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-white?logo=javascript)
-![React Badge](https://img.shields.io/badge/React-white?logo=react)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
-![Material-UI Badge](https://img.shields.io/badge/Material-UI-white?logo=mui)
+![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Material-UI Badge](https://img.shields.io/badge/Material--UI-0081CB?logo=mui)
 
 This repository contains two different versions of a to-do list application, showcasing various approaches to building the same functionality using different technologies. Both versions implement core features like adding, deleting, but they use different tech stacks to achieve similar results.
 
