@@ -45,7 +45,7 @@ This project aimed to deepen my understanding of React.
 
 ## Screenshot
 
-![To-Do App Screenshot](/To-Do-React.png)
+![To-Do App Screenshot](/public//To-Do-React.png)
 
 ## Future Improvements
 
