@@ -40,6 +40,8 @@ This project was a practice exercise to improve my understanding of basic web de
 
 ![To-Do App Screenshot](./screenshot/To-Do-JavaScript.png)
 
+To-Do App live: https://klimentina2709.github.io/To-Do-App/
+
 ## Future Improvements
 
 - Add local storage to save tasks even when the page is refreshed
